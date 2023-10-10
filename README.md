@@ -1,5 +1,6 @@
 # CAR_PRICE_PREDICTION
 The dataset contains nine features in total related to the sales of second hand cars of different models of Audi brand .In total 10668 samples are present in the dataset.
+
 model – Model of the Audi car sold
 year – Year in which the car was sold
 price -  Price at which the car was sold
