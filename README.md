@@ -2,13 +2,21 @@
 The dataset contains nine features in total related to the sales of second hand cars of different models of Audi brand .In total 10668 samples are present in the dataset.
 
 model – Model of the Audi car sold
+
 year – Year in which the car was sold
+
 price -  Price at which the car was sold
+
 transmission – Transmission of the car sold
+
 mileage – Distance travelled
+
 fuelType – Type of fuel used in running the car
+
 tax – Tax payed while buying the car
+
 mpg – Miles per Gallon
+
 engine size – Size of engine in litres. (1000cc = 1L)
 
 AIM:
